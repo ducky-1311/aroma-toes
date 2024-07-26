@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+    font-size: 80px;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-family: "Sofia", sans-serif
+}
